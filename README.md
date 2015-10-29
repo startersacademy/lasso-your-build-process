@@ -10,17 +10,21 @@ These are the examples used for a [presentation](https://github.com/startersacad
 
 Install dependencies:
 
-`
+```
+
 npm install
 
 npm install -g lasso-cli
-`
+
+```
 
 Start the server:
 
-`
+```
+
 npm start
-`
+
+```
 
 ## Using the Command Line Interface Examples
 
