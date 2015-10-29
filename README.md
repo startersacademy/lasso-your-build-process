@@ -4,13 +4,16 @@ This application demonstrates how to use lasso.js to replace various parts of a
 typical front end workflow. For more information see
 https://github.com/lasso-js/lasso.
 
+These are the examples used for a [presentation](https://github.com/startersacademy/lasso-your-build-process-presentation) about lasso.js.
+
 ## Getting Started
 
 Install dependencies:
 
 `
 npm install
-npm install -g lasso
+
+npm install -g lasso-cli
 `
 
 Start the server:
